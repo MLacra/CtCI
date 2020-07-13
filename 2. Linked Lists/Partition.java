@@ -19,23 +19,23 @@ public class Partition
 
     public static void main(String[] args){
 
-        // addNode(1);
-        // addNode(2);
-        // addNode(10);
-        // addNode(11);
-        // addNode(3);
-        // addNode(4);
-        // addNode(5);
-        // addNode(6);
+        addNode(1);
+        addNode(2);
+        addNode(10);
+        addNode(11);
+        addNode(3);
+        addNode(4);
+        addNode(5);
+        addNode(6);
 
         //example from book
-        addNode(3);
-        addNode(5);
-        addNode(8);
-        addNode(5);
-        addNode(10);
-        addNode(2);
-        addNode(1);
+        // addNode(3);
+        // addNode(5);
+        // addNode(8);
+        // addNode(5);
+        // addNode(10);
+        // addNode(2);
+        // addNode(1);
 
         int x = 5;
 
