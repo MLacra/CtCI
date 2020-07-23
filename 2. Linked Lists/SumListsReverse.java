@@ -1,5 +1,7 @@
 public class SumListsReverse{
-
+/* pb 2.6 - this is the solution without the follow up question - 
+ * the follow up solution could entail using 2 equal stacks (padded if necessary)
+ */
     private static class Node{
 
         Node next;
